@@ -2,7 +2,7 @@
 
 > Draw shapes on a layer above the text of the page with Vue.js 2 and perfect-arrows. You can move the shapes.
 
-![](https://github.com/neokeld/VuejsDrawShapes/blob/master/readme-assets/1.png)
+![](https://github.com/neokeld/VuejsDrawShapes/blob/main/readme-assets/1.png)
 
 ## Build Setup
 
